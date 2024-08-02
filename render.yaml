@@ -1,8 +1,8 @@
 services:
   - type: web
-    name: Gifted-Md
+    name: Jinwiil🕷️_49
     env: docker
-    region: Frankfurt
+    region: Kenya
     plan: free
     dockerfilePath: Dockerfile
 
